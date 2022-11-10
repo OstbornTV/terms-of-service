@@ -1,3 +1,3 @@
-#Terms of Service
+Terms of Service
 
-##its not finale
+its not finale
