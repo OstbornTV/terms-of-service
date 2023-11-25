@@ -1,10 +1,10 @@
-[OsbornTV] TERMS OF SERVICE
-Last Updated: [10.Spetember.2022]
+[OstbornTV] TERMS OF SERVICE
+Last Updated: [25.November.2023]
 
 These terms of service ("Terms") apply to your access and use of [All my Service and Data] (the "Service"). Please read them carefully.
 
 Accepting these Terms
-If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing [support@osborntv.de].
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing [support@ostborntv.de].
 
 Changes to these Terms
 We reserve the right to modify these Terms at any time. For instance, we may need to change these Terms if we come out with a new feature or for some other reason.
@@ -23,7 +23,7 @@ Termination
 If you breach any of these Terms, we have the right to suspend or disable your access to or use of the Service.
 
 Entire Agreement
-These Terms constitute the entire agreement between you and [OsbornTV] regarding the use of the Service, superseding any prior agreements between you and [OsbornTV] relating to your use of the Service.
+These Terms constitute the entire agreement between you and [OstbornTV] regarding the use of the Service, superseding any prior agreements between you and [OstbornTV] relating to your use of the Service.
 
 
 [FINAL NOTE: CERTAIN APPLICATION STORES (E.G., APPLE APP STORE, GOOGLE PLAY, ETC.) MAY REQUIRE YOU TO INCLUDE ADDITIONAL TERMS AND CONDITIONS IN THESE TERMS OF SERVICE AS A CONDITION TO MAKING YOUR APPLICATION AVAILABLE ON SUCH PLATFORM. IF APPLICABLE, REVIEW YOUR AGREEMENT WITH ANY SUCH APPLICATION STORE TO DETERMINE IF ADDITIONAL TERMS ARE REQUIRED.]
